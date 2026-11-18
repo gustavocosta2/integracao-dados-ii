@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Slides da disciplina (mantidos apenas localmente)
+/ID2__Aula*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Dados locais e volumes Docker
+data/
+minio_data/
+*.parquet
+*.log
