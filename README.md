@@ -5,6 +5,7 @@ Repositório do Projeto Integrador da disciplina **Integração de Dados II** (C
 ## Arquitetura e Entregas
 
 - Documentação completa da arquitetura: [docs/arquitetura.md](docs/arquitetura.md)
+- Catálogo da fábrica (máquinas, peças, sensores e faixas): [docs/dominio-fabrica.md](docs/dominio-fabrica.md)
 - Registros de Decisão Arquitetural (ADRs):
   - [ADR 0001 — Persistência Poliglota](docs/adr/0001-arquitetura-poliglota-iot.md)
   - [ADR 0002 — MinIO e Camada Bronze](docs/adr/0002-object-storage-minio-e-camada-bronze.md)
